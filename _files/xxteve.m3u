@@ -1,3 +1,11 @@
 #EXTM3U
+#EXTINF:0 group-title="Canal sat" tvg-id="9daacdd42a5c4f2e85a45727c75eb3c9" tvg_name="France 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/4.png",France 2
+http://vvn.neoredi.com/iptv/ch209?code=135141661926395&key=64813
+#EXTINF:0 group-title="Canal sat" tvg-id="2692b1837b30429685c4427d1f752d1c" tvg_name="France 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/78.png",France 4
+http://vvn.neoredi.com/iptv/ch219?code=135141661926395&key=64889
+#EXTINF:0 group-title="Canal sat" tvg-id="e2d49f1c592e4190a6765a2bcfda687f" tvg_name="France 5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/47.png",France 5
+http://vvn.neoredi.com/iptv/ch211?code=135141661926395&key=61473
+#EXTINF:0 group-title="Canal sat" tvg-id="9d7713041ade4b23955ce143ef834642" tvg_name="M6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/118.png",M6
+http://vvn.neoredi.com/iptv/ch208?code=135141661926395&key=58223
 #EXTINF:0 group-title="Canal sat" tvg-id="b7ad7643a3934fdd8c056949e03db8de" tvg_name="TF1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png",TF1
 http://vvn.neoredi.com/iptv/ch207?code=135141661926395&key=51216
