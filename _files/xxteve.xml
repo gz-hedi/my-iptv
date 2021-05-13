@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
   <channel id="b7ad7643a3934fdd8c056949e03db8de">
-    <display-name>TF1 HD</display-name>
+    <display-name>TF1</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png" />
   </channel>
   <programme channel="b7ad7643a3934fdd8c056949e03db8de" start="20210510224000" stop="20210510232500">
