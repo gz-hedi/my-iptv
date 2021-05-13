@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 group-title="Canal sat" tvg-id="8a2e4a9adf6c44cfb082e8f3706caa70" tvg_name="6 Ter" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1403.png",6 Ter
+http://vvn.neoredi.com/iptv/ch262?code=135141661926395&key=33939
+#EXTINF:0 group-title="Canal sat" tvg-id="744283f1d753434aa8282ebbec3b2d61" tvg_name="C-8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/445.png",C-8
+http://vvn.neoredi.com/iptv/ch223?code=135141661926395&key=40068
 #EXTINF:0 group-title="Canal sat" tvg-id="9daacdd42a5c4f2e85a45727c75eb3c9" tvg_name="France 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/4.png",France 2
 http://vvn.neoredi.com/iptv/ch209?code=135141661926395&key=64813
 #EXTINF:0 group-title="Canal sat" tvg-id="2692b1837b30429685c4427d1f752d1c" tvg_name="France 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/78.png",France 4
@@ -9,3 +13,9 @@ http://vvn.neoredi.com/iptv/ch211?code=135141661926395&key=61473
 http://vvn.neoredi.com/iptv/ch208?code=135141661926395&key=58223
 #EXTINF:0 group-title="Canal sat" tvg-id="b7ad7643a3934fdd8c056949e03db8de" tvg_name="TF1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png",TF1
 http://vvn.neoredi.com/iptv/ch207?code=135141661926395&key=51216
+#EXTINF:0 group-title="Middle East" tvg-id="c717722e344747089fa590dd1bd0965e" tvg_name="TV5 Monde" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/205.png",TV5 Monde
+http://vvn.neoredi.com/iptv/ch192?code=135141661926395&key=17368
+#EXTINF:0 group-title="Canal sat" tvg-id="65f3fd1a57d84f9bbeb1eca9de5d5eb9" tvg_name="W9 HD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/119.png",W9 HD
+http://vvn.neoredi.com/iptv/ch220?code=135141661926395&key=48919
+#EXTINF:0 group-title="" tvg-id="fc94cf2a1802490886a3e331f92b384c" tvg_name="The Tennis Channel" tvg-logo="https://i.imgur.com/n3C7ytq.png",The Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
